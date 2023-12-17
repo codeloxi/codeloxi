@@ -3,7 +3,10 @@
 - 👋 Hi, I’m @codeloxi
 - 👀 I’m interested in developing innovate solutions to ill-defined problems. 
 - 🌱 I’m currently learning Applied Statistics for STEM & Data Structures
-- 💞️ I’m looking to collaborate on Mobile Development focusing on Android
+- 💞️ I’m looking to collaborate on Mobile Development focusing on Android development
+
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeloxi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
