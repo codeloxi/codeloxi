@@ -1,4 +1,4 @@
-
+![alt text](https://github.com/codeloxi/codeloxi/blob/main/banner.png?raw=true)
 
 - 👋 Hi, I’m @codeloxi
 - 👀 I’m interested in ...
