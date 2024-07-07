@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @codeloxi
 - 👀 I’m interested in developing innovate solutions to ill-defined problems. 
-- 🌱 I’m currently learning Applied Statistics for STEM & Data Structures
+- 🌱 I’m currently learning Linear Algebra & Software Lifecycle Development
 - 💞️ I’m looking to collaborate on Mobile Development focusing on Android development
 
   
